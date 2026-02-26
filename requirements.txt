@@ -5,6 +5,7 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+gunicorn==21.2.0
 dill
-Flask
+Flask==2.3.2
 -e .
